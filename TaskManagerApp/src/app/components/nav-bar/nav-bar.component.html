@@ -1,0 +1,15 @@
+
+  <mat-toolbar *ngIf="isLoggedIn$ | async as isLoggedIn">
+    <button mat-icon-button  >
+      <mat-icon>menu</mat-icon>
+    </button>
+    <span>Task Manger</span>
+    <span class="nav-spacer"></span>
+    <button mat-mini-fab color="primary" (click)="onLogout()" *ngIf="isLoggedIn">
+        <mat-icon>login</mat-icon>
+    </button>
+  </mat-toolbar>
+  <router-outlet />
+
+  
+  

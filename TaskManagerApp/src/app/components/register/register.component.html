@@ -1,0 +1,29 @@
+<mat-card>
+    <h3 class="mat-form-header">Register</h3>
+    <mat-card-content>
+      <form #registerForm="ngForm" (ngSubmit)="onSubmit()">
+        <mat-form-field>
+          <input matInput placeholder="User Name" [(ngModel)]="user.userName" name="userName" required>
+          <mat-error>
+            Please Enter User Name
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field>
+          <input matInput type="password" placeholder="Password" [(ngModel)]="user.password" name="password" required>
+          <mat-error>
+            Please Enter Password
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput type="password" placeholder="Confirm Password"  [(ngModel)]="cPassword" name="cPassword" required>
+            <mat-error>
+              Please ReEnter Password
+            </mat-error>
+          </mat-form-field>
+        <button mat-raised-button color="primary" [disabled]="!registerForm.form.valid">Sign Up</button>
+    </form>
+    <div class="buttonDiv">
+    <button mat-raised-button color="success" (click)="login()" >Cancel </button>
+    </div>
+    </mat-card-content>
+  </mat-card>

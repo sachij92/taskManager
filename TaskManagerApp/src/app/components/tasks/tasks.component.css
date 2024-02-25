@@ -1,0 +1,42 @@
+.stroke{
+    text-decoration: line-through;
+}
+
+th.mat-header-cell {
+    text-align: left;
+    max-width: 300px;
+}
+.mat-form-field {
+    font-size: 14px;
+    width: 20%;
+  }
+.mat-container{
+    width: 100%;
+  }
+.th-center{
+    text-align: center;
+  }
+.th-left{
+    text-align: left;
+  }
+.th-right{
+    text-align: right;
+  }
+.responsive-table {
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+.rightDiv {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+  }
+.leftDiv{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+  margin-top: 2%;
+  }

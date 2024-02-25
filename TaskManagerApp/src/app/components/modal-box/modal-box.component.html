@@ -1,0 +1,32 @@
+<div>
+  <h1 mat-dialog-title>{{action}}</h1>
+</div>
+<form novalidate (ngSubmit)="onSubmit()" [formGroup]="addUpdateForm" role="form" #updateForm="ngForm">
+  <div mat-dialog-content>
+    <div fxLayout="row wrap">
+      <div fxFlex="100">
+        <mat-form-field>
+          <input placeholder="Title" matInput formControlName="title" required>
+          <mat-error>
+            Please Enter Title
+          </mat-error>
+        </mat-form-field>
+      </div>
+    </div>
+    <div fxLayout="row wrap" >
+        <mat-form-field>
+          <textarea placeholder="Description" matInput formControlName="description" required></textarea>
+          <mat-error>
+            Please Enter Description
+          </mat-error>
+        </mat-form-field>
+    </div>
+  </div>
+  <div mat-dialog-actions>
+    <div>
+      <button class="dialog-btn" mat-raised-button type="button" (click)="closeDialog()">{{cancel}}</button>
+      <button class="dialog-btn" mat-raised-button color="primary" [disabled]="!updateForm.form.valid"type="submit"
+       >{{action}}</button>
+    </div>
+  </div>
+</form>
