@@ -1,0 +1,122 @@
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.exe
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.deps.json
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.runtimeconfig.json
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.runtimeconfig.dev.json
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\ref\TaskManagementAPI.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.pdb
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.AssemblyInfoInputs.cache
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.AssemblyInfo.cs
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\staticwebassets\TaskManagementAPI.StaticWebAssets.Manifest.cache
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\staticwebassets\TaskManagementAPI.StaticWebAssets.xml
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\scopedcss\bundle\TaskManagementAPI.styles.css
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.RazorTargetAssemblyInfo.cache
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.csproj.CopyComplete
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\ref\TaskManagementAPI.dll
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.pdb
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.genruntimeconfig.cache
+C:\Users\014815\Desktop\Task Management App\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.csproj.AssemblyReference.cache
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\appsettings.json
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.exe
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.deps.json
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.runtimeconfig.json
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.runtimeconfig.dev.json
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\ref\TaskManagementAPI.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\TaskManagementAPI.pdb
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Humanizer.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.AssemblyInfoInputs.cache
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.AssemblyInfo.cs
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.csproj.CoreCompileInputs.cache
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\staticwebassets\TaskManagementAPI.StaticWebAssets.Manifest.cache
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\staticwebassets\TaskManagementAPI.StaticWebAssets.xml
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\scopedcss\bundle\TaskManagementAPI.styles.css
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.RazorTargetAssemblyInfo.cache
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.csproj.CopyComplete
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\ref\TaskManagementAPI.dll
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.pdb
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.genruntimeconfig.cache
+D:\taskManager\TaskManagementAPI\TaskManagementAPI\obj\Debug\net5.0\TaskManagementAPI.csproj.AssemblyReference.cache
